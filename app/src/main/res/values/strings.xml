@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">Hello</string>
-    <string name="saludo">Hola_Brahyan</string>
+    <string name="app_name">Brahyan Torres</string>
+    <string name="saludo">Ingrese su nombre</string>
 </resources>
